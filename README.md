@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shreya Vishnupant Lad
+- 📍 I live in Sangli, Maharashtra, India.
 - 👀 I’m interested in Computer Programming
 - 🔭 I wanted to become a AI/ML developer.
 - 🌱 I’m currently working on Web development.
